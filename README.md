@@ -5,8 +5,8 @@ auto to create zabbix's screen
 Modify 'method/info.py'
 python main.py
 
-![](https://https://github.com/chendoubao/CreateZabbixScreen/edit/master/png/start1.png) 
-![](https://https://github.com/chendoubao/CreateZabbixScreen/edit/master/png/start2.png) 
+![](https://github.com/chendoubao/CreateZabbixScreen/blob/master/png/start1.png) 
+![](https://github.com/chendoubao/CreateZabbixScreen/blob/master/png/start2.png) 
 
 
 ## 说明
