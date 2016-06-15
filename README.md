@@ -1,5 +1,6 @@
 # CreateZabbixScreen
-auto to create zabbix's screen 
+auto to create zabbix's screen。
+输入分组和需要添加的图形，会自动按照info.py中的行、列来创建screen。
 
 ## Start..
 Modify 'method/info.py'
